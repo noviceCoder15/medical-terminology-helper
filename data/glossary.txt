@@ -1,0 +1,237 @@
+Anterior: toward the front of the body. In humans it means the same as ventral.
+
+Posterior: toward the back of the body. In humans it means the same as dorsal.
+
+Superior: above, or toward the head.
+
+Inferior: below, or toward the feet.
+
+Medial: toward the midline of the body.
+
+Lateral: away from the midline, toward the side of the body.
+
+Proximal: closer to the point of attachment or origin of a limb.
+
+Distal: farther from the point of attachment or origin of a limb.
+
+Sagittal plane: a vertical plane that divides the body into right and left parts.
+
+Coronal plane: a vertical plane that divides the body into front and back parts.
+
+Transverse plane: a horizontal plane that divides the body into upper and lower parts.
+
+Homeostasis: the maintenance of a stable internal environment in the body.
+
+Artery: a blood vessel that carries blood away from the heart.
+
+Vein: a blood vessel that carries blood toward the heart.
+
+Capillary: the smallest blood vessel, where gases, nutrients, and waste are exchanged between the blood and the tissues.
+
+Atrium: an upper chamber of the heart that receives blood.
+
+Ventricle: a lower chamber of the heart that pumps blood out of the heart.
+
+Aorta: the largest artery in the body, which carries oxygenated blood from the left ventricle to the rest of the body.
+
+Tachycardia: a heart rate faster than normal, generally above 100 beats per minute in an adult at rest.
+
+Bradycardia: a heart rate slower than normal, generally below 60 beats per minute in an adult at rest.
+
+Hypertension: abnormally high blood pressure.
+
+Hypotension: abnormally low blood pressure.
+
+Systole: the phase of the heartbeat in which the ventricles contract and pump blood out.
+
+Diastole: the phase of the heartbeat in which the heart relaxes and fills with blood.
+
+Myocardium: the muscular middle layer of the heart wall.
+
+Pericardium: the double-layered sac that surrounds the heart.
+
+Ischemia: an inadequate blood supply to a part of the body.
+
+Hemoglobin: the iron-containing protein in red blood cells that carries oxygen.
+
+Erythrocyte: a red blood cell.
+
+Leukocyte: a white blood cell, which is part of the immune system.
+
+Thrombocyte: a platelet, a cell fragment that helps the blood to clot.
+
+Plasma: the liquid part of the blood.
+
+Alveolus: a tiny air sac in the lung where gas exchange takes place.
+
+Bronchus: one of the two main airways that lead from the trachea into the lungs.
+
+Trachea: the windpipe, the tube that carries air from the larynx to the bronchi.
+
+Diaphragm: the dome-shaped muscle beneath the lungs that is the main muscle of breathing.
+
+Dyspnea: difficult or labored breathing, or shortness of breath.
+
+Apnea: the temporary absence of breathing.
+
+Hypoxia: a deficiency in the amount of oxygen reaching the tissues.
+
+Pleura: the thin membrane that covers the lungs and lines the chest cavity.
+
+Larynx: the voice box, which contains the vocal cords.
+
+Pharynx: the throat, a passage shared by the respiratory and digestive systems.
+
+Esophagus: the muscular tube that carries food from the throat to the stomach.
+
+Peristalsis: waves of muscular contraction that move food along the digestive tract.
+
+Duodenum: the first section of the small intestine, which receives bile and pancreatic juice.
+
+Jejunum: the middle section of the small intestine.
+
+Ileum: the final section of the small intestine, which joins the large intestine.
+
+Colon: the main part of the large intestine, which absorbs water and forms feces.
+
+Liver: the largest internal organ, which produces bile and processes nutrients.
+
+Gallbladder: a small sac under the liver that stores bile.
+
+Pancreas: a gland that produces digestive enzymes and the hormones insulin and glucagon.
+
+Bile: a fluid made by the liver that helps to digest fats.
+
+Dysphagia: difficulty in swallowing.
+
+Neuron: a nerve cell that transmits electrical and chemical signals.
+
+Axon: the long fiber of a neuron that carries impulses away from the cell body.
+
+Dendrite: a branched extension of a neuron that receives signals from other cells.
+
+Synapse: the junction between two neurons, or between a neuron and another cell, where a signal is passed on.
+
+Cerebrum: the largest part of the brain, responsible for thought, memory, and voluntary movement.
+
+Cerebellum: the part of the brain at the back of the head that coordinates movement and balance.
+
+Meninges: the three membranes that cover the brain and spinal cord.
+
+Cerebrospinal fluid: the clear fluid that surrounds and cushions the brain and spinal cord.
+
+Paresthesia: an abnormal sensation, such as tingling or pins and needles.
+
+Neuralgia: pain along the path of a nerve.
+
+Aphasia: loss of the ability to produce or understand language, usually caused by damage to the brain.
+
+Tendon: a tough band of tissue that connects muscle to bone.
+
+Ligament: a tough band of tissue that connects one bone to another at a joint.
+
+Cartilage: a firm, flexible connective tissue found in joints, the ears, and the nose.
+
+Femur: the thigh bone, the longest and strongest bone in the body.
+
+Humerus: the bone of the upper arm.
+
+Tibia: the shinbone, the larger bone of the lower leg.
+
+Scapula: the shoulder blade.
+
+Clavicle: the collarbone.
+
+Osteoporosis: a condition in which the bones become weak and brittle because of a loss of bone density.
+
+Arthritis: inflammation of a joint.
+
+Myalgia: muscle pain.
+
+Hormone: a chemical messenger made by a gland and carried in the blood to act on target organs.
+
+Insulin: a hormone made by the pancreas that lowers the level of glucose in the blood.
+
+Thyroid: a gland in the neck that produces hormones that control metabolism.
+
+Nephron: the functional unit of the kidney, which filters the blood and forms urine.
+
+Ureter: a tube that carries urine from the kidney to the bladder.
+
+Hematuria: the presence of blood in the urine.
+
+Polyuria: the production of an abnormally large amount of urine.
+
+Epidermis: the outer layer of the skin.
+
+Dermis: the layer of skin beneath the epidermis, which contains blood vessels, nerves, and glands.
+
+Edema: swelling caused by excess fluid in the body tissues.
+
+Inflammation: the response of the body to injury or infection, marked by redness, heat, swelling, and pain.
+
+Pathogen: a microorganism, such as a bacterium or a virus, that can cause disease.
+
+Antibody: a protein made by the immune system that recognizes and binds a specific foreign substance.
+
+Benign: not cancerous, and not spreading to other parts of the body.
+
+Malignant: cancerous, and able to invade nearby tissue or spread to other parts of the body.
+
+Anemia: a condition in which the blood has too few red blood cells or too little hemoglobin.
+
+Hypoglycemia: an abnormally low level of glucose in the blood.
+
+Hyperglycemia: an abnormally high level of glucose in the blood.
+
+Diabetes mellitus: a disease in which the body does not make enough insulin or cannot use it properly, causing a high level of glucose in the blood.
+
+Pneumonia: an infection that inflames the air sacs of one or both lungs.
+
+Appendicitis: inflammation of the appendix.
+
+Myocardial infarction: death of heart muscle caused by a blocked blood supply, commonly called a heart attack.
+
+Stroke: a sudden loss of brain function caused by a blocked or ruptured blood vessel in the brain.
+
+Anaphylaxis: a severe, life-threatening allergic reaction.
+
+Syncope: a temporary loss of consciousness caused by a drop in blood flow to the brain, commonly called fainting.
+
+Jaundice: a yellowing of the skin and the whites of the eyes, caused by too much bilirubin in the blood.
+
+Cyanosis: a bluish color of the skin caused by a low level of oxygen in the blood.
+
+Pyrexia: fever, or a body temperature above the normal range.
+
+Hemostasis: the stopping of bleeding.
+
+Hematoma: a collection of blood outside the blood vessels, as in a bruise.
+
+The prefix hyper- means above, over, or excessive, as in hypertension.
+
+The prefix hypo- means below, under, or deficient, as in hypoglycemia.
+
+The prefix tachy- means fast, and the prefix brady- means slow, as in tachycardia and bradycardia.
+
+The suffix -itis means inflammation, as in arthritis and appendicitis.
+
+The suffix -ectomy means surgical removal, as in appendectomy.
+
+The suffix -emia means a condition of the blood, as in anemia.
+
+The suffix -pathy means disease, as in neuropathy.
+
+The root cardi- refers to the heart, and cardiology is the study of the heart.
+
+The root nephr- refers to the kidney, and nephritis is inflammation of the kidney.
+
+The root hepat- refers to the liver, and hepatitis is inflammation of the liver.
+
+The root gastr- refers to the stomach, and gastritis is inflammation of the lining of the stomach.
+
+The root neur- refers to nerves, and neurology is the study of the nervous system.
+
+The root derm- refers to the skin, and dermatology is the study of the skin.
+
+The root osteo- refers to bone, and osteoarthritis is a disease of the joints in which the cartilage wears away.

@@ -1,0 +1,5 @@
+# CPU PyTorch is enough. The Learn Fast workbenches already include it.
+# To avoid the large default download, install it first with:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch>=2.1
+pytest>=8.0
