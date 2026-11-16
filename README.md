@@ -1,3 +1,4 @@
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/vt3c8dtapg/badge.svg)](https://msrit.ask.thili.ai/b/vt3c8dtapg)
 # Medical Terminology Helper
 
 A command-line assistant that completes partial medical phrases and definitions. It is
