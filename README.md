@@ -1,5 +1,5 @@
-[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/vt3c8dtapg/badge.svg)](https://msrit.ask.thili.ai/b/vt3c8dtapg)
 # Medical Terminology Helper
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/vt3c8dtapg/badge.svg)](https://msrit.ask.thili.ai/b/vt3c8dtapg)
 
 A command-line assistant that completes partial medical phrases and definitions. It is
 powered by a small GPT built from scratch in PyTorch (byte-pair tokenizer, embeddings,
